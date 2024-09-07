@@ -76,21 +76,25 @@ body {
 .achieve-item-title {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 
-.achive-item-text {
+.achieve-item-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
 /*========/ways to achieve======*/
 
 /*========our team======*/
+.team {background-color: #F4F4FD;}
 .team-title {font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;}
-
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;}
+.team-list-item {background-color: #FFFFFF;}
 .team-list-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -109,7 +113,9 @@ body {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;}
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;}
 
 .portfolio-item-title {ont-weight: 500;
   font-size: 20px;
@@ -129,4 +135,4 @@ footer {background-color: #2e2f42;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
-/*========/footer======
+/*========/footer======*/
