@@ -10,7 +10,7 @@ button {
   cursor: pointer;
 }
 body {
-  font-family: 'Roboto', 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #2e2f42;
   background-color: #ffffff;
 }
@@ -23,9 +23,11 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-.logotext-blue {
   color: #4d5ae5;
+}
+.logotext-black {
+  color: #2e2f42;
+    color:;
 }
 .menu-link {
   font-family: "Roboto", sans-serif;
