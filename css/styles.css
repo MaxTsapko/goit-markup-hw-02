@@ -1,0 +1,127 @@
+ol,
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
+/* =======header styles====== */
+.page-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logotext-blue {
+  color: #4d5ae5;
+}
+.menu-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.menu-link:hover,
+.menu-link:focus
+  {color: #404bbf;}
+.menu-link:active {
+    text-decoration: underline;}
+
+.contact-list-item-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;}
+.contact-list-item-link:hover,
+.contact-list-item-link:focus
+   {color: #404bbf;}
+/*======/header styles=======*/
+
+/*======main styles==========*/
+/*======order section========*/
+
+.main-title {font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;}
+
+.order-btn {font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    color: #fff;}
+
+.order-btn:hover,
+.order-btn:focus {background: #404bbf;}
+/*========/order section=======*/
+
+/*========ways to achieve======*/
+.achieve-item-title {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;}
+
+.achive-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+/*========/ways to achieve======*/
+
+/*========our team======*/
+.team-title {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;}
+
+.team-list-name {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;}
+
+.team-list-job {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;}
+ /*========/our team======*/
+
+ /*========our portfolio======*/
+.portfolio-title {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;}
+
+.portfolio-item-title {ont-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;}
+
+.portfolio-item-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;}
+/*========/our portfolio======*/
+
+/*========footer======*/
+  .footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
+/*========/footer======*/
