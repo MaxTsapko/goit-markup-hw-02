@@ -11,7 +11,7 @@ button {
 }
 body {
   font-family: 'Roboto', sans-serif;
-  color: #2e2f42;
+  color:#434455;
   background-color: #ffffff;
 }
 
@@ -25,9 +25,8 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logotext-black {
+.logotext-top {
   color: #2e2f42;
-    color:;
 }
 .menu-link {
   font-family: "Roboto", sans-serif;
@@ -41,11 +40,12 @@ body {
 .menu-link:active {
     text-decoration: underline;}
 
+.contact {font-style: normal;}
 .contact-list-item-link {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;}
+    }
 .contact-list-item-link:hover,
 .contact-list-item-link:focus
    {color: #404bbf;}
@@ -53,12 +53,13 @@ body {
 
 /*======main styles==========*/
 /*======order section========*/
-
+.order-section {background-color: #2e2f42;}
 .main-title {font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;}
+    text-align: center;
+    color: #ffffff;}
 
 .order-btn {font-weight: 500;
     line-height: 1.5;
@@ -122,8 +123,10 @@ body {
 /*========/our portfolio======*/
 
 /*========footer======*/
-  .footer-text {
+footer {background-color: #2e2f42;}
+.logotext-bottom {color: #f4f4fd;}
+  .footertext {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
-/*========/footer======*/
+/*========/footer======
