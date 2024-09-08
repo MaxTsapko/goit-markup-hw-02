@@ -55,14 +55,16 @@ body {
 /*======main styles==========*/
 /*======order section========*/
 .order-section {background-color: #2e2f42;}
-.main-title {font-weight: 700;
+.main-title {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;}
 
-.order-btn {font-weight: 500;
+.order-btn {
+    font-family: inherit;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -88,7 +90,7 @@ body {
 
 /*========our team======*/
 .team {background-color: #F4F4FD;}
-.team-title {font-weight: 700;
+.team-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
