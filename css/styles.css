@@ -133,8 +133,10 @@ body {
 
 /*========footer======*/
 footer {background-color: #2e2f42;}
+
 .logotext-bottom {color: #f4f4fd;}
-  .footertext {
+
+.footertext {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
