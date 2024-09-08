@@ -67,13 +67,13 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     color: #fff;}
 
 .order-btn:hover,
-.order-btn:focus {background: #404bbf;}
-/*========/order section=======*/
+.order-btn:focus 
+{background: #404bbf;}
+/*========/order section======*/
 
 /*========ways to achieve======*/
 .achieve-item-title {font-weight: 500;
@@ -90,6 +90,7 @@ body {
 
 /*========our team======*/
 .team {background-color: #F4F4FD;}
+
 .team-title {
     font-size: 36px;
     line-height: 1.11;
@@ -97,7 +98,9 @@ body {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;}
+
 .team-list-item {background-color: #FFFFFF;}
+
 .team-list-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,7 +116,7 @@ body {
  /*========/our team======*/
 
  /*========our portfolio======*/
-.portfolio-title {font-weight: 700;
+.portfolio-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
